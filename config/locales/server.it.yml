@@ -1,0 +1,4 @@
+it:
+  site_settings:
+    topic_featured_link_extra_digest_email_anchor_style: "CSS per a.featured-link nel riepilogo delle email"
+    topic_featured_link_extra_link_ref: "Aggiungi `ref=x` alla fine della url"

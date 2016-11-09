@@ -1,0 +1,4 @@
+en:
+  site_settings:
+    topic_featured_link_extra_digest_email_anchor_style: "CSS for a.featured-link in digest email"
+    topic_featured_link_extra_link_ref: "Add `ref=x` in the end of url"
